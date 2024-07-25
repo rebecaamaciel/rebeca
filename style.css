@@ -4,3 +4,9 @@
 .Cors{
     background-color: rgb(218, 205, 205);
 }
+header{
+    background-color: #3f8391;
+
+    padding: 20px;
+    text-align: center;
+}
