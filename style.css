@@ -1,6 +1,12 @@
 .Cor{
     background-color: rgb(212, 203, 203);
 }
+header{
+    background-color: #3f8391;
+
+    padding: 20px;
+    text-align: center;
+}
 .Cors{
     background-color: rgb(218, 205, 205);
 }
