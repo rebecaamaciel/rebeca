@@ -1,1 +1,1 @@
-botoes = document.querySelectorAll('.opcoes');
+const botoes = document.querySelectorAll('.opcoes');
