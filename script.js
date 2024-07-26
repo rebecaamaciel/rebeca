@@ -1,0 +1,1 @@
+botoes = document.querySelectorAll('.opcoes');
